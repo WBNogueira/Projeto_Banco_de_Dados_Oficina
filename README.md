@@ -4,7 +4,7 @@
 
 ### Modelagem EER feito no Workbench MySQL.
 
-### Script sql do criação do banco de dados e tabelas com seus relacionametos.
+### Script sql da criação do banco de dados e tabelas com seus relacionametos.
 
 ### Script sql das inserções de dados no BD.
 
